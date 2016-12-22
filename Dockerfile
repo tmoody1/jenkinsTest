@@ -26,3 +26,4 @@ ADD tomcat-users.xml /opt/tomcat/conf/tomcat-users.xml
 ENTRYPOINT su -c "/opt/tomcat/bin/catalina.sh run" tomcat
 #test
 #test
+#test
